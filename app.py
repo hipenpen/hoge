@@ -1,7 +1,6 @@
 import binascii
 import shutil
 import os
-import cv2
 import time
 import random, string
 from flask import Flask, request, Markup, abort, url_for, make_response
